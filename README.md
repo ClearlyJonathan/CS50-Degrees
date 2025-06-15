@@ -11,6 +11,8 @@ This repository contains my solution to Project 0: Degrees from Harvard's [CS50'
 - `degrees.py` – Main program for finding the shortest connection.
 - `util.py` – Queue and Stack classes used in the search process.
 - `large/` – Dataset of actors and movies (provided by CS50).
+- `small/` - Smaller dataset of actors and movies for testing purposes
+- Other files - Provided by CS50
 
 ## ▶️ How to Run
 ```bash
